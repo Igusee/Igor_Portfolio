@@ -14,5 +14,5 @@ Hello, I'm Igor. I hold a Bachelor's in Global Business Services with a minor in
   * Preferred workplace locations.
   * Other notable patterns.
 
-![](https://github.com/Igusee/Project-1-HR-Data/blob/main/Images/Power%20Bi%20dashboard)
+![]Images/Power%20Bi%20dashboard)
 
