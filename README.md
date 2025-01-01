@@ -22,3 +22,17 @@ I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data A
 
 
 ![Zrzut ekranu 2025-01-01 204016](https://github.com/user-attachments/assets/784f3823-1e87-448d-b0bc-5f1c101946f4)
+
+# [Project 3: Apartment Data Visualization in R and Flexdashboard](https://github.com/Igusee/Project-2-Apartment-Data)  
+* Utilized apartment data from Wrocław for analysis and visualization.  
+* Loaded and prepared data from Excel for analysis.  
+* Created various visualizations using ggplot2, plotly, and other R libraries.  
+* Developed an interactive Flexdashboard to present key insights.  
+* The dashboard presents insights on:  
+  * Price vs. years of use of apartments.  
+  * Price vs. distance from the city center.  
+  * Correlations among apartment attributes (e.g., size, price, distance).  
+  * 3D visualizations of apartment data.  
+  * Interactive data tables for apartment details.
+
+![Zrzut ekranu 2025-01-01 235314](https://github.com/user-attachments/assets/b1d57838-de27-4f3a-933c-19a8a86e7765)
