@@ -1,5 +1,11 @@
 # Welcome to Igor's Portfolio
-I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data Analysis, currently I am pursuing a Master's degree in Project Management at Cracow University of Economics. I also have over three years of internship experience at ABB in Controlling & Purchasing and Administration. Below are some of my Data Analysis Projects, that I made in my free time or for my classes.
+I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data Analysis, currently I am pursuing a Master's degree in Project Management at Cracow University of Economics. I also have over three years of internship experience at ABB in Controlling & Purchasing and Administration. Below are some of my Data Analysis Projects, that I made in my free time or for my classes or for my classes.
+## Personal Details and link
+* Based in Cracow, PL
+* [My CV in PDF](https://github.com/user-attachments/files/18286781/CV.Igor.ze.zdjeciem.pdf)
+* [LinkedIn](www.linkedin.com/in/igor-gryzlo)
+* E-Mail Address - igorgryzlo1@gmail.com
+
 
 
 
