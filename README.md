@@ -1,5 +1,5 @@
 # Igor's Portfolio
-Sample of my Data Analysis Projects. 
+Hello, I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data Analysis, currently I am pursuing a Master's degree in Project Management at Cracow University of Economics. I also have over three years of internship experience at ABB in Controlling & Purchasing and Administration. Below are some of my Data Analysis Projects, that I made in my free time.
 
 # [Project 1: HR data Cleaning in SQL and Power BI Analysis and Visualisation](link.com)
 * Utilized HR data for analysis.
