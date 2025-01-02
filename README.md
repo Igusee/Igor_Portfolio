@@ -10,6 +10,7 @@ I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data A
 
 
 # [Project 1: HR data Cleaning in SQL and Power BI Analysis and Visualisation](https://github.com/Igusee/Project-1-HR-Data)
+## Power BI and MySQL Project aimed at Visulisation and Analysis of HR data
 * Utilized HR data for analysis.
 * Performed basic cleaning and minor adjustments in MySQL to prepare the data for analysis.
 * Analyzed and visualized data in Power BI.
@@ -23,7 +24,30 @@ I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data A
 
 ![Zrzut ekranu 2025-01-01 204016](https://github.com/user-attachments/assets/784f3823-1e87-448d-b0bc-5f1c101946f4)
 
+# [Project 2: Real Estate Price Regression in R](https://github.com/Igusee/Project-2-Wroclaw-housing-costs-Regression-Model/tree/main)
+## RStudio Assignment Project for my Regression models in Business Analytics classes at my University. 
+* Developed a regression model to predict apartment prices in Wrocław.
+* Analyzed data from **Otodom** to explore key factors influencing apartment prices.
+* Key dataset variables included:
+  * **Building Age**: Years since construction, indicating infrastructure wear.
+  * **Distance from City Center**: Kilometers from Wrocław’s main square.
+  * **Apartment Size**: Measured in square meters, representing livable space.
+* Insights derived from model analysis:
+  * Negative linear relationship between price and both building age and distance from the center.
+  * Positive linear relationship between price and apartment size.
+* Evaluated model accuracy through residual diagnostics, correlation analysis, and independence tests:
+  * Identified and excluded outliers for improved precision.
+  * Chose the best-fit model after comparing several variations based on adjusted R² and statistical significance.
+* Estimated prices for hypothetical apartments to demonstrate model applicability.
+* Visualizations created using R include:
+  * Scatter plots with regression lines.
+  * Residual and quantile-quantile plots for diagnostic purposes.
+
+![R markdown](https://github.com/user-attachments/assets/42fa3504-d4ed-44e9-a8d9-a8c13c264872)
+
 # [Project 3: Apartment Data Visualization in R and Flexdashboard](https://github.com/Igusee/Project-2-Apartment-Data)  
+
+
 * Utilized apartment data from Wrocław for analysis and visualization.  
 * Loaded and prepared data from Excel for analysis.  
 * Created various visualizations using ggplot2, plotly, and other R libraries.  
