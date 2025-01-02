@@ -46,7 +46,7 @@ I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data A
 ![R markdown](https://github.com/user-attachments/assets/42fa3504-d4ed-44e9-a8d9-a8c13c264872)
 
 # [Project 3: Apartment Data Visualization in R and Flexdashboard](https://github.com/Igusee/Project-Apartment-Data-Visualization-in-R-and-Flexdashboard)  
-## RStudio FlexDashboard Assignment project for "Data Visualisation" Classes. The main goal of this Project was visualising data from previous University assessment. (Click the headline above for more details)
+## RStudio FlexDashboard Assignment project for "Data Visualisation" Classes. (Click the headline above for more details)
 
 * Utilized apartment data from Wrocław for analysis and visualization.  
 * Loaded and prepared data from Excel for analysis.  
