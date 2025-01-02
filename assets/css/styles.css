@@ -1,1 +1,10 @@
+body {
+  background-color: #f0f0f0; /* Szary kolor tła */
+  margin: 0;
+  height: 100%;
+}
 
+#content-wrapper {
+  min-height: 100vh;
+  background-color: #f0f0f0; /* Kolor szarego paska */
+}
