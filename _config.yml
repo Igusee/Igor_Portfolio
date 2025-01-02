@@ -8,8 +8,5 @@ description: >
     <li>My LinkedIn <a href="https://www.linkedin.com/in/igor-gryzlo/">Click</a></li>
     <li>E-Mail Address - igorgryzlo1@gmail.com</li>
   </ul>
-<head>
-  <link rel="stylesheet" href="assets/css/styles.css">
-</head>
 show_downloads: false
 theme: jekyll-theme-minimal
