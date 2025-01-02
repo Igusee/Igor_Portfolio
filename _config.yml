@@ -8,5 +8,13 @@ description: >
     <li>My LinkedIn <a href="https://www.linkedin.com/in/igor-gryzlo/">Click</a></li>
     <li>E-Mail Address - igorgryzlo1@gmail.com</li>
   </ul>
+.logo {
+  display: block;
+  margin: 0 auto; /* Wycentrowanie */
+  border-radius: 50%; /* Zaokrąglone rogi */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Lekki cień */
+  width: 732px; /* Dostosuj wymiary */
+  height: 715px; /* Dostosuj wymiary */
+}
 show_downloads: false
 theme: jekyll-theme-minimal
