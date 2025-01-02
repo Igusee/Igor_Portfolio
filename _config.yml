@@ -1,1 +1,5 @@
-remote_theme: pages-themes/slate@v0.2.0
+title: Igor Gryzło  
+logo: 
+description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
