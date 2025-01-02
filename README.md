@@ -25,7 +25,7 @@ I'm Igor. I hold a Bachelor's in Global Business Services with a minor in Data A
 ![Zrzut ekranu 2025-01-01 204016](https://github.com/user-attachments/assets/784f3823-1e87-448d-b0bc-5f1c101946f4)
 
 # [Project 2: Real Estate Price Regression in R](https://github.com/Igusee/Project-2-Wroclaw-housing-costs-Regression-Model/tree/main)
-## RStudio Assignment Project for my Regression models in Business Analytics classes at my University. 
+## RStudio Assignment Project for my "Regression models in Business Analytics classes" at University. 
 * Developed a regression model to predict apartment prices in Wrocław.
 * Analyzed data from **Otodom** to explore key factors influencing apartment prices.
 * Key dataset variables included:
